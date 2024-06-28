@@ -1,0 +1,2 @@
+D:\Users\petar_0r3wy5h\source\repos\Minecraft server quick install\bin\Release\net6.0\publish\win-x64\Minecraft server quick install.pdb
+D:\Users\petar_0r3wy5h\source\repos\Minecraft server quick install\bin\Release\net6.0\publish\win-x64\Minecraft server quick install.exe

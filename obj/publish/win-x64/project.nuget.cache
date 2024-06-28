@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "kwmB8Njg4j2q+e2WtUdAm9oojXWc8rM7Jvxv3vwULaSaq8RxuIxA6V2jL+B2MFRHBLE1g6/1eI+uGRbu14gtqQ==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\petar_0r3wy5h\\source\\repos\\Minecraft server quick install\\Minecraft-server-quick-install-and-port-forward\\Minecraft server quick install.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\petar_0r3wy5h\\.nuget\\packages\\mono.nat\\3.0.4\\mono.nat.3.0.4.nupkg.sha512",
+    "C:\\Users\\petar_0r3wy5h\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.21\\microsoft.netcore.app.runtime.win-x64.6.0.21.nupkg.sha512",
+    "C:\\Users\\petar_0r3wy5h\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.21\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.21.nupkg.sha512",
+    "C:\\Users\\petar_0r3wy5h\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.21\\microsoft.aspnetcore.app.runtime.win-x64.6.0.21.nupkg.sha512",
+    "C:\\Users\\petar_0r3wy5h\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.21\\microsoft.netcore.app.crossgen2.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

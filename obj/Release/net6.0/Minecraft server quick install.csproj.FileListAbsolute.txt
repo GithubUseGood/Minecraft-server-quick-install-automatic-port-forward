@@ -1,0 +1,34 @@
+D:\Users\petar_0r3wy5h\source\repos\Minecraft server quick install\bin\Release\net6.0\Minecraft server quick install.exe
+D:\Users\petar_0r3wy5h\source\repos\Minecraft server quick install\bin\Release\net6.0\Minecraft server quick install.deps.json
+D:\Users\petar_0r3wy5h\source\repos\Minecraft server quick install\bin\Release\net6.0\Minecraft server quick install.runtimeconfig.json
+D:\Users\petar_0r3wy5h\source\repos\Minecraft server quick install\bin\Release\net6.0\Minecraft server quick install.dll
+D:\Users\petar_0r3wy5h\source\repos\Minecraft server quick install\bin\Release\net6.0\Minecraft server quick install.pdb
+D:\Users\petar_0r3wy5h\source\repos\Minecraft server quick install\bin\Release\net6.0\Mono.Nat.dll
+D:\Users\petar_0r3wy5h\source\repos\Minecraft server quick install\obj\Release\net6.0\Minecraft server quick install.csproj.AssemblyReference.cache
+D:\Users\petar_0r3wy5h\source\repos\Minecraft server quick install\obj\Release\net6.0\Minecraft server quick install.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\petar_0r3wy5h\source\repos\Minecraft server quick install\obj\Release\net6.0\Minecraft server quick install.AssemblyInfoInputs.cache
+D:\Users\petar_0r3wy5h\source\repos\Minecraft server quick install\obj\Release\net6.0\Minecraft server quick install.AssemblyInfo.cs
+D:\Users\petar_0r3wy5h\source\repos\Minecraft server quick install\obj\Release\net6.0\Minecraft server quick install.csproj.CoreCompileInputs.cache
+D:\Users\petar_0r3wy5h\source\repos\Minecraft server quick install\obj\Release\net6.0\Minecraft server quick install.csproj.CopyComplete
+D:\Users\petar_0r3wy5h\source\repos\Minecraft server quick install\obj\Release\net6.0\Minecraft server quick install.dll
+D:\Users\petar_0r3wy5h\source\repos\Minecraft server quick install\obj\Release\net6.0\refint\Minecraft server quick install.dll
+D:\Users\petar_0r3wy5h\source\repos\Minecraft server quick install\obj\Release\net6.0\Minecraft server quick install.pdb
+D:\Users\petar_0r3wy5h\source\repos\Minecraft server quick install\obj\Release\net6.0\Minecraft server quick install.genruntimeconfig.cache
+D:\Users\petar_0r3wy5h\source\repos\Minecraft server quick install\obj\Release\net6.0\ref\Minecraft server quick install.dll
+D:\Users\petar_0r3wy5h\source\repos\Minecraft server quick install\Minecraft-server-quick-install-and-port-forward\bin\Release\net6.0\Minecraft server quick install.exe
+D:\Users\petar_0r3wy5h\source\repos\Minecraft server quick install\Minecraft-server-quick-install-and-port-forward\bin\Release\net6.0\Minecraft server quick install.deps.json
+D:\Users\petar_0r3wy5h\source\repos\Minecraft server quick install\Minecraft-server-quick-install-and-port-forward\bin\Release\net6.0\Minecraft server quick install.runtimeconfig.json
+D:\Users\petar_0r3wy5h\source\repos\Minecraft server quick install\Minecraft-server-quick-install-and-port-forward\bin\Release\net6.0\Minecraft server quick install.dll
+D:\Users\petar_0r3wy5h\source\repos\Minecraft server quick install\Minecraft-server-quick-install-and-port-forward\bin\Release\net6.0\Minecraft server quick install.pdb
+D:\Users\petar_0r3wy5h\source\repos\Minecraft server quick install\Minecraft-server-quick-install-and-port-forward\bin\Release\net6.0\Mono.Nat.dll
+D:\Users\petar_0r3wy5h\source\repos\Minecraft server quick install\Minecraft-server-quick-install-and-port-forward\obj\Release\net6.0\Minecraft server quick install.csproj.AssemblyReference.cache
+D:\Users\petar_0r3wy5h\source\repos\Minecraft server quick install\Minecraft-server-quick-install-and-port-forward\obj\Release\net6.0\Minecraft server quick install.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\petar_0r3wy5h\source\repos\Minecraft server quick install\Minecraft-server-quick-install-and-port-forward\obj\Release\net6.0\Minecraft server quick install.AssemblyInfoInputs.cache
+D:\Users\petar_0r3wy5h\source\repos\Minecraft server quick install\Minecraft-server-quick-install-and-port-forward\obj\Release\net6.0\Minecraft server quick install.AssemblyInfo.cs
+D:\Users\petar_0r3wy5h\source\repos\Minecraft server quick install\Minecraft-server-quick-install-and-port-forward\obj\Release\net6.0\Minecraft server quick install.csproj.CoreCompileInputs.cache
+D:\Users\petar_0r3wy5h\source\repos\Minecraft server quick install\Minecraft-server-quick-install-and-port-forward\obj\Release\net6.0\Minecraft server quick install.csproj.CopyComplete
+D:\Users\petar_0r3wy5h\source\repos\Minecraft server quick install\Minecraft-server-quick-install-and-port-forward\obj\Release\net6.0\Minecraft server quick install.dll
+D:\Users\petar_0r3wy5h\source\repos\Minecraft server quick install\Minecraft-server-quick-install-and-port-forward\obj\Release\net6.0\refint\Minecraft server quick install.dll
+D:\Users\petar_0r3wy5h\source\repos\Minecraft server quick install\Minecraft-server-quick-install-and-port-forward\obj\Release\net6.0\Minecraft server quick install.pdb
+D:\Users\petar_0r3wy5h\source\repos\Minecraft server quick install\Minecraft-server-quick-install-and-port-forward\obj\Release\net6.0\Minecraft server quick install.genruntimeconfig.cache
+D:\Users\petar_0r3wy5h\source\repos\Minecraft server quick install\Minecraft-server-quick-install-and-port-forward\obj\Release\net6.0\ref\Minecraft server quick install.dll

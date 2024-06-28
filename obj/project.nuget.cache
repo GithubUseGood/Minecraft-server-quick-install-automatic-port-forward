@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y0FSq0wsjN7PrDyhoo8UtRNSUSDCObL9FutaDaxhJPCO2oFP6n8ybaunNhRKrU26JyVV0zMh1piOjXxWuM9v3Q==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\petar_0r3wy5h\\source\\repos\\Minecraft server quick install\\Minecraft-server-quick-install-and-port-forward\\Minecraft server quick install.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\petar_0r3wy5h\\.nuget\\packages\\mono.nat\\3.0.4\\mono.nat.3.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
