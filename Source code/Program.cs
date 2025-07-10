@@ -62,7 +62,7 @@ namespace Minecraft_server_quick_install
         {
             using (var client = new WebClient())
             {
-                client.DownloadFile("https://download.getbukkit.org/spigot/spigot-1.21.jar", GetCurrentPath()+ "\\server.jar");
+                client.DownloadFile("https://getbukkit.org/get/cNW08KHVlCEwof2IkXbxXIKeDPbfgMBU", GetCurrentPath()+ "\\server.jar");
             }
             while (!File.Exists(GetCurrentPath()+ "\\server.jar")) ; // wait for file download //
 
